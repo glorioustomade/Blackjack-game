@@ -1,0 +1,3 @@
+# Blackjack-game
+Blackjack Game: A dynamic and interactive web-based Blackjack game implemented using HTML, CSS, and JavaScript. 
+This project showcases my skills in front-end development and demonstrates my ability to create engaging user interfaces. The game allows players to experience the thrill of playing Blackjack against an AI dealer. With intuitive controls and visually appealing design, it provides an immersive gameplay experience. Through this project, I applied my knowledge of HTML for structuring the game elements, CSS for styling and layout, and JavaScript for game logic and interactivity.
